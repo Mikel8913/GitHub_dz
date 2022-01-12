@@ -1,1 +1,9 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <timestamp>1510417124782</timestamp>
+    <status>500</status>
+    <error>Internal Server Error</error>
+    <exception>com.netflix.hystrix.exception.HystrixRuntimeException</exception>
+    <message>ApplicationRepository#save(Application) failed and no fallback available.</message>
+    <path>/application</path>
+</root>
