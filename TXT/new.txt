@@ -1,0 +1,5 @@
+Name  Mikhail Aleksandrovich,
+age  32,
+number of pets 0,
+income 350
+
